@@ -15,10 +15,10 @@ Nesneye yönelik programlama ilkelerinin kullanılmadığı, karmaşık altyapı
 
 # Uygulama İçerisinden Görseller
 
-<img src="https://github.com/furkanayyildiz55/Satis_Takip/blob/master/ana_sayfa.jpg" width="250">
+<img src="https://github.com/furkanayyildiz55/Satis_Takip/blob/master/ana_sayfa.jpg" width="500">
 
-<img src="https://github.com/furkanayyildiz55/Satis_Takip/blob/master/yetkili_giris.jpg" width="250">
+<img src="https://github.com/furkanayyildiz55/Satis_Takip/blob/master/yetkili_giris.jpg" width="500">
 
-<img src="https://github.com/furkanayyildiz55/Satis_Takip/blob/master/fis_olustur.jpg" width="250">
+<img src="https://github.com/furkanayyildiz55/Satis_Takip/blob/master/fis_olustur.jpg" width="500">
 
-<img src="https://github.com/furkanayyildiz55/Satis_Takip/blob/master/fis_olustur.jpg" width="250">
+<img src="https://github.com/furkanayyildiz55/Satis_Takip/blob/master/fis_olustur.jpg" width="500">
