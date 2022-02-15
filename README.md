@@ -8,3 +8,7 @@ Nesneye yönelik programlama ilkelerinin kullanılmadığı, karmaşık altyapı
 3. Ürün İşlemler
 4. Müşteriler
 5. Müşteri İşlemler
+6. Yetkili İşlemler
+7. Satışlar
+8. Yetkili Giriş Paneli
+9. Yetkisiz Fiş Oluşturma
